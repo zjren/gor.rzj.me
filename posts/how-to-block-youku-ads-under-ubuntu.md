@@ -1,4 +1,5 @@
 ---
+layout: post
 title: ubuntu下屏蔽youku广告
 date: '2013-08-11'
 description:ubuntu下屏蔽youku广告
