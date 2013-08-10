@@ -1,16 +1,17 @@
-title : Blog Title
+title : 蓦然回首
 tagline: Blog Tagline
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : kisspy
+  email : 
+  github : zjren
+  twitter : 
+  feedburner : 
 
 navigation :
   - archive.html
   - tags.html
   - categories.html
   - pages.html
+  - tools.md
   - about.md
   
